@@ -1,0 +1,52 @@
+/* Nikita Kouevda */
+/* 2013/07/13 */
+
+body {
+  width: 640px;
+  margin: 0 auto;
+}
+
+.center-outer, .center-inner {
+  clear: both;
+  float: left;
+  position: relative;
+}
+
+.center-outer {
+  left: 50%;
+}
+
+.center-inner {
+  left: -50%;
+}
+
+header, section {
+  margin: 100px 0;
+  overflow: hidden;
+}
+
+.title {
+  text-align: center;
+  font-family: 'Palatino', 'serif';
+  font-weight: normal;
+  font-size: 3.5em;
+  color: #333333;
+}
+
+.link-image {
+  display: block;
+  width: 48px;
+  height: 48px;
+}
+
+tr + tr .link-image {
+  margin-top: 48px;
+}
+
+td + td .link-image {
+  margin-left: 48px;
+}
+
+a:hover > .link-image {
+  opacity: 0.75;
+}

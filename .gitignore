@@ -1,0 +1,11 @@
+# Nikita Kouevda
+# 2013/07/13
+
+# OS X Finder
+.DS_Store
+
+# Temporary Vim files
+*.swp
+
+# Generated Jekyll files
+_site
