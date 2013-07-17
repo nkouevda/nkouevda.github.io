@@ -1,0 +1,9 @@
+<article class="post">
+  <header class="post-header">
+    <a class="post-title" href="{{ page.url }}">{{ page.title }}</a>
+    <time class="post-date" datetime="{{ page.date }}">{{ page.date | date: "%Y/%m/%d" }}</time>
+  </header>
+  <div class="post-content">
+    {{ content }}
+  </div>
+</article>
