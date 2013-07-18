@@ -1,5 +1,5 @@
 /* Nikita Kouevda */
-/* 2013/07/17 */
+/* 2013/07/18 */
 
 body {
   font-family: 'Georgia', serif;
@@ -13,8 +13,7 @@ body {
 
 #site-header, #site-footer {
   text-align: center;
-  padding-top: 72px;
-  padding-bottom: 72px;
+  padding: 72px 0;
 }
 
 #site-header {
@@ -35,8 +34,7 @@ a:hover {
 }
 
 .link-separator {
-  margin-left: 1.2em;
-  margin-right: 1.2em;
+  margin: 0 1.2em;
 }
 
 .post {
