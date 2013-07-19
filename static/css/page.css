@@ -13,7 +13,7 @@ body {
 
 #site-header, #site-footer {
   text-align: center;
-  padding: 4.5em 0;
+  padding: 4em 0;
 }
 
 #site-header-text {
@@ -38,18 +38,18 @@ a:hover {
 }
 
 .post {
-  margin-left: 2.5em;
-  margin-right: 2.5em;
+  margin-left: 2em;
+  margin-right: 2em;
   border: 1px solid #dddddd;
   border-radius: 0.5em;
 }
 
 .post + .post {
-  margin-top: 2.5em;
+  margin-top: 3em;
 }
 
 .post-header, .post-content {
-  margin: 2.5em;
+  margin: 2em;
 }
 
 .post-title {
