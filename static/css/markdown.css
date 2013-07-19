@@ -34,19 +34,20 @@
   list-style-type: disc;
 }
 
-.markdown pre, .markdown p code {
+.markdown pre, .markdown code {
   background-color: #dddddd;
   padding-left: 0.25em;
   padding-right: 0.25em;
 }
 
-.markdown p code {
+.markdown code {
+  font-family: 'Courier', monospace;
   padding-top: 0.1em;
   padding-bottom: 0.1em;
 }
 
-.markdown code {
-  font-family: 'Courier', monospace;
+.markdown pre code {
+  padding: 0;
 }
 
 .markdown blockquote {
