@@ -7,20 +7,20 @@ body {
 }
 
 #container {
-  width: 800px;
+  width: 50em;
   margin: 0 auto;
 }
 
 #site-header, #site-footer {
   text-align: center;
-  padding: 72px 0;
+  padding: 4.5em 0;
 }
 
-#site-header {
+#site-header-text {
   font-size: 3em;
 }
 
-#site-footer {
+#site-footer-text {
   font-size: 2em;
 }
 
@@ -38,25 +38,24 @@ a:hover {
 }
 
 .post {
-  margin-left: 36px;
-  margin-right: 36px;
+  margin-left: 2.5em;
+  margin-right: 2.5em;
   border: 1px solid #dddddd;
-  border-radius: 6px;
+  border-radius: 0.5em;
 }
 
 .post + .post {
-  margin-top: 36px;
+  margin-top: 2.5em;
 }
 
 .post-header, .post-content {
-  margin: 36px;
+  margin: 2.5em;
 }
 
 .post-title {
-  font-size: 2.5em;
+  font-size: 2em;
 }
 
 .post-date {
   float: right;
-  font-size: 1.25em;
 }
