@@ -7,7 +7,7 @@ body {
 }
 
 #container {
-  width: 900px;
+  width: 800px;
   margin: 0 auto;
 }
 
@@ -17,11 +17,11 @@ body {
 }
 
 #site-header {
-  font-size: 3.6em;
+  font-size: 3em;
 }
 
 #site-footer {
-  font-size: 2.4em;
+  font-size: 2em;
 }
 
 a {
@@ -34,7 +34,7 @@ a:hover {
 }
 
 .link-separator {
-  margin: 0 1.2em;
+  margin: 0 1em;
 }
 
 .post {
@@ -53,10 +53,10 @@ a:hover {
 }
 
 .post-title {
-  font-size: 2.7em;
+  font-size: 2.5em;
 }
 
 .post-date {
   float: right;
-  font-size: 1.2em;
+  font-size: 1.25em;
 }
