@@ -1,0 +1,68 @@
+/* Nikita Kouevda */
+/* 2013/07/19 */
+
+.markdown {
+  line-height: 1.5;
+}
+
+.markdown p, .markdown pre, .markdown ol, .markdown ul, .markdown dl,
+.markdown h3, .markdown h4, .markdown h5, .markdown h6 {
+  margin-bottom: 1em;
+}
+
+.markdown h1, .markdown h2 {
+  margin-bottom: 0.5em;
+}
+
+.markdown h1 {
+  font-size: 2em;
+}
+
+.markdown h2 {
+  font-size: 1.5em;
+}
+
+.markdown ol, .markdown ul, .markdown pre {
+  margin-left: 2em;
+}
+
+.markdown ol {
+  list-style-type: decimal;
+}
+
+.markdown ul {
+  list-style-type: disc;
+}
+
+.markdown pre, .markdown code {
+  background-color: #dddddd;
+}
+
+.markdown pre {
+  padding: 0 0.25em;
+}
+
+.markdown code {
+  font-family: 'Menlo', 'Consolas', 'Courier', monospace;
+}
+
+.markdown blockquote {
+  padding: 0 2em 0 1.5em;
+  border-left: 0.5em solid #dddddd;
+}
+
+.markdown a {
+  color: #bb2200;
+}
+
+.markdown em {
+  font-style: italic;
+}
+
+.markdown strong {
+  font-weight: bold;
+}
+
+.markdown img {
+  vertical-align: bottom;
+}

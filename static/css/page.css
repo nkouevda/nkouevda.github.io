@@ -1,5 +1,5 @@
 /* Nikita Kouevda */
-/* 2013/07/18 */
+/* 2013/07/19 */
 
 body {
   font-family: 'Georgia', serif;
@@ -40,7 +40,7 @@ a:hover {
 .post {
   margin-left: 36px;
   margin-right: 36px;
-  border: 1px solid #cccccc;
+  border: 1px solid #dddddd;
   border-radius: 6px;
 }
 
@@ -59,35 +59,4 @@ a:hover {
 .post-date {
   float: right;
   font-size: 1.2em;
-}
-
-.post-content {
-  line-height: 1.5;
-}
-
-.post-content h1 {
-  font-size: 2.1em;
-  margin-bottom: 0.3em;
-}
-
-.post-content h2 {
-  font-size: 1.8em;
-  margin-bottom: 0.3em;
-}
-
-.post-content p {
-  font-size: 1.2em;
-  margin-bottom: 1em;
-}
-
-.post-content a {
-  color: #bb2200;
-}
-
-.post-content em {
-  font-style: italic;
-}
-
-.post-content strong {
-  font-weight: bold;
 }
