@@ -1,5 +1,5 @@
 /* Nikita Kouevda */
-/* 2013/08/10 */
+/* 2013/08/12 */
 
 body {
   font-family: 'Georgia', serif;
@@ -16,11 +16,11 @@ body {
   padding: 4em 0;
 }
 
-#site-header-text {
+#site-header > a {
   font-size: 3em;
 }
 
-#site-footer-text {
+#site-footer > a, #site-footer > span {
   font-size: 2em;
 }
 
