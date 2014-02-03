@@ -1,11 +1,11 @@
 # Nikita Kouevda
-# 2013/07/13
+# 2014/02/03
 
-# OS X Finder
+# Finder
 .DS_Store
 
-# Temporary Vim files
+# Vim
 *.swp
 
-# Generated Jekyll files
+# Generated files
 _site
