@@ -3,6 +3,7 @@ layout: post
 title: About
 author: Nikita Kouevda
 date: 2013/10/12
+permalink: /about/
 ---
 
 I'm an undergraduate computer science student at UC Berkeley.
