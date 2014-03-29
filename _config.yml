@@ -1,7 +1,8 @@
 # Nikita Kouevda
-# 2014/03/24
+# 2014/03/29
 
 title: Nikita Kouevda
 permalink: /:year/:month/:day/:title/
 relative_permalinks: false
 exclude: [README.md]
+highlighter: pygments
