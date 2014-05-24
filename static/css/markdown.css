@@ -1,8 +1,8 @@
 /* Nikita Kouevda */
-/* 2014/03/29 */
+/* 2014/05/24 */
 
 .markdown {
-  line-height: 1.5;
+  line-height: 1.35;
 }
 
 .markdown p, .markdown pre, .markdown ol, .markdown ul, .markdown dl,
@@ -19,7 +19,7 @@
 }
 
 .markdown h2 {
-  font-size: 1.25em;
+  font-size: 1.5em;
 }
 
 .markdown ol, .markdown ul {
@@ -52,12 +52,8 @@
 }
 
 .markdown blockquote {
-  padding: 0 2em 0 1.5em;
-  border-left: 0.5em solid #dddddd;
-}
-
-.markdown a {
-  color: #bb2200;
+  padding: 0 2em 0 1em;
+  border-left: 1em solid #dddddd;
 }
 
 .markdown em {
