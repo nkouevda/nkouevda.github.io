@@ -1,8 +1,14 @@
 # Nikita Kouevda
-# 2014/03/29
+# 2014/05/26
 
 title: Nikita Kouevda
-permalink: /:year/:month/:day/:title/
-relative_permalinks: false
+author: Nikita Kouevda
+email: nkouevda@gmail.com
+permalink: pretty
 exclude: [README.md]
-highlighter: pygments
+defaults:
+  -
+    scope:
+      path: blog
+    values:
+      layout: post
