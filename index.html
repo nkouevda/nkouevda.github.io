@@ -1,10 +1,9 @@
 ---
 layout: page
-date: 2013/07/17
 ---
 
 {% for post in site.posts %}
 {% assign page = post %}
 {% assign content = post.content %}
-{% include post.html %}
+{% include post-header.html %}
 {% endfor %}

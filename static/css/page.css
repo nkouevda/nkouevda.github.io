@@ -1,5 +1,5 @@
 /* Nikita Kouevda */
-/* 2014/05/26 */
+/* 2014/05/27 */
 
 body {
   font-family: 'Palatino', serif;
@@ -46,14 +46,14 @@ a:hover {
   margin: 3em 0;
 }
 
-.post-header {
-  margin-bottom: 3em;
-}
-
 .post-title {
   font-size: 2em;
 }
 
 .post-date {
   float: right;
+}
+
+.post-content {
+  margin-top: 3em;
 }
