@@ -1,10 +1,16 @@
 ---
 layout: post
 title: About
-date: 2013/10/12
+date: 2014/06/01
 ---
 
-I'm an undergraduate computer science student at UC Berkeley.
+I'm a software engineer at [TellApart](http://www.tellapart.com/).
+
+Previously, I was a software engineering intern at
+[AdStack](http://adstack.com/).
+
+I graduated from [UC Berkeley](http://berkeley.edu/) with a bachelor's degree in
+computer science.
 
 Check out my projects on [GitHub](https://github.com/nkouevda) and my profile on
 [LinkedIn](http://www.linkedin.com/in/nkouevda).
