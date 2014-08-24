@@ -1,5 +1,5 @@
 # Nikita Kouevda
-# 2014/05/26
+# 2014/08/24
 
 title: Nikita Kouevda
 author: Nikita Kouevda
@@ -7,8 +7,13 @@ email: nkouevda@gmail.com
 permalink: pretty
 exclude: [README.md]
 defaults:
-  -
-    scope:
-      path: blog
+  - scope:
+      path: ''
+      type: page
+    values:
+      layout: page
+  - scope:
+      path: ''
+      type: post
     values:
       layout: post
