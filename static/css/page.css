@@ -1,5 +1,5 @@
 /* Nikita Kouevda */
-/* 2014/08/23 */
+/* 2014/08/29 */
 
 body {
   font-family: 'Georgia', serif;
@@ -13,7 +13,7 @@ a {
 }
 
 a:hover {
-  opacity: 0.5;
+  text-decoration: underline;
 }
 
 #container {
