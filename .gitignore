@@ -1,11 +1,5 @@
 # Nikita Kouevda
-# 2014/03/24
-
-# Finder
-.DS_Store
-
-# Vim
-*.swp
+# 2014/08/30
 
 # Jekyll
 _drafts
