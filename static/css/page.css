@@ -1,9 +1,12 @@
 /* Nikita Kouevda */
-/* 2014/08/29 */
+/* 2014/09/14 */
+
+html {
+  font-size: 125%;
+}
 
 body {
   font-family: 'Georgia', serif;
-  font-size: 125%;
   color: #333333;
 }
 
@@ -17,43 +20,60 @@ a:hover {
 }
 
 #container {
-  width: 35em;
+  width: 36rem;
   margin: 0 auto;
+}
+
+#site-header, #site-footer, .post, .post-header, .post-content {
+  margin: 3rem 0;
 }
 
 #site-header, #site-footer {
   text-align: center;
-  margin: 3em 0;
 }
 
-#site-header > a {
+#site-header {
   font-size: 2.5em;
 }
 
-#site-footer > a, #site-footer > span {
-  font-size: 2em;
+#site-footer, .post-title {
+  font-size: 1.5em;
 }
 
-.link-separator {
-  margin: 0 0.5em;
+#site-footer > ul > li {
+  display: inline;
+}
+
+.footer-separator {
+  margin: 0 1rem;
 }
 
 .post-separator {
   border-top: 1px solid #bbbbbb;
 }
 
-.post {
-  margin: 3em 0;
-}
-
-.post-title {
-  font-size: 2em;
+.post-title, .post-date {
+  margin-bottom: 0.5em;
 }
 
 .post-date {
-  float: right;
+  color: #777777;
 }
 
-.post-content {
-  margin-top: 3em;
+@media screen and (max-width: 50rem) {
+  html {
+    font-size: 100%;
+  }
+
+  #container {
+    width: 90%;
+  }
+
+  #site-header, #site-footer, .post, .post-header, .post-content {
+    margin: 2rem 0;
+  }
+
+  .footer-separator {
+    margin: 0 0.5rem;
+  }
 }

@@ -1,5 +1,5 @@
 /* Nikita Kouevda */
-/* 2014/08/23 */
+/* 2014/09/14 */
 
 .markdown {
   line-height: 1.35;
@@ -15,11 +15,11 @@
 }
 
 .markdown h1 {
-  font-size: 1.75em;
+  font-size: 1.375em;
 }
 
 .markdown h2 {
-  font-size: 1.5em;
+  font-size: 1.25em;
 }
 
 .markdown ol, .markdown ul {

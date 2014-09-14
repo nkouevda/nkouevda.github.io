@@ -1,7 +1,11 @@
 <div class="post-separator"></div>
 <article class="post">
   <header class="post-header">
-    <a class="post-title" href="{{ page.url }}">{{ page.title }}</a>
-    <time class="post-date" datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date: '%Y/%m/%d' }}</time>
+    <h1 class="post-title">
+      <a href="{{ page.url }}">{{ page.title }}</a>
+    </h1>
+    <h2 class="post-date">
+      <time datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date: '%Y/%m/%d' }}</time>
+    </h2>
   </header>
 </article>
