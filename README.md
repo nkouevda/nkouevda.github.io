@@ -1,6 +1,6 @@
 <!-- Nikita Kouevda -->
-<!-- 2013/07/21 -->
+<!-- 2014/09/20 -->
 
-# [nkouevda.github.io](http://nkouevda.github.io/)
+# [nkouevda.github.io](https://nkouevda.github.io/)
 
 My personal website.
