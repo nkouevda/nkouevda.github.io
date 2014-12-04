@@ -1,5 +1,5 @@
 /* Nikita Kouevda */
-/* 2014/09/14 */
+/* 2014/12/03 */
 
 html {
   font-size: 125%;
@@ -21,6 +21,7 @@ a:hover {
 
 #container {
   width: 36rem;
+  word-wrap: break-word;
   margin: 0 auto;
 }
 
