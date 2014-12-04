@@ -1,5 +1,5 @@
 /* Nikita Kouevda */
-/* 2014/09/14 */
+/* 2014/12/03 */
 
 .markdown {
   line-height: 1.35;
@@ -52,8 +52,8 @@
 }
 
 .markdown blockquote {
-  padding: 0 2em 0 1em;
   border-left: 1em solid #dddddd;
+  padding-left: 1em;
 }
 
 .markdown em {
