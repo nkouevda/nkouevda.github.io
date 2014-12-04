@@ -1,5 +1,5 @@
-As per [`man 7 regex`](http://linux.die.net/man/7/regex) (or `man 7 re_format`
-on BSD), ERE chooses the leftmost longest match:
+POSIX specifies (see [`regex(7)`](http://linux.die.net/man/7/regex), or
+`re_format(7)` on BSD) that ERE chooses the leftmost longest match:
 
 > In the event that an RE could match more than one substring of a given string,
 > the RE matches the one starting earliest in the string. If the RE could match
