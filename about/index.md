@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About
-date: 2014/06/01
+date: 2014/12/06
 ---
 
 I'm a software engineer at [TellApart](http://www.tellapart.com/).
@@ -14,3 +14,5 @@ computer science.
 
 Check out my projects on [GitHub](https://github.com/nkouevda) and my profile on
 [LinkedIn](https://www.linkedin.com/in/nkouevda).
+
+Contact me at <{{ site.email }}>.
