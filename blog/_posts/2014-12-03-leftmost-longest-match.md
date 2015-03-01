@@ -9,7 +9,7 @@ POSIX specifies (see [`regex(7)`](http://linux.die.net/man/7/regex), or
 illustrate the difference, consider the pattern `/a?(ab)?/` and the string
 `"ab"`. Note that the possible matches are `"a"` and `"ab"`.
 
-PCRE matches `"a"`:  `/a?/` matches `"a"`, and then `/(ab?)/` matches the empty
+PCRE matches `"a"`:  `/a?/` matches `"a"`, and then `/(ab)?/` matches the empty
 string. `grep -P`, `perl`, and `python` all exhibit this behavior:
 
 {% highlight bash %}
