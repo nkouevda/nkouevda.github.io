@@ -5,11 +5,11 @@ exclude: [README.md]
 defaults:
   - scope:
       path: ''
-      type: page
+      type: pages
     values:
       layout: page
   - scope:
       path: ''
-      type: post
+      type: posts
     values:
       layout: post
