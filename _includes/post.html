@@ -8,7 +8,9 @@
       <time datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date: '%Y/%m/%d' }}</time>
     </h2>
   </header>
+  {% if content %}
   <div class="post-content markdown">
     {{ content }}
   </div>
+  {% endif %}
 </article>
