@@ -43,7 +43,7 @@ a:hover {
 }
 
 .footer-separator {
-  margin: 0 1rem;
+  margin: 0 0.5em;
 }
 
 .post-separator {
@@ -69,9 +69,5 @@ a:hover {
 
   #site-header, #site-footer, .post, .post-header, .post-content {
     margin: 2rem 0;
-  }
-
-  .footer-separator {
-    margin: 0 0.5rem;
   }
 }

@@ -32,16 +32,20 @@
 }
 
 .markdown pre, .markdown code {
-  background-color: #dddddd;
-  padding-left: 0.25em;
-  padding-right: 0.25em;
+  background-color: #eeeeee;
+}
+
+.markdown pre {
+  border-radius: 0.5em;
+  padding: 0.2em 0.5em;
+  overflow: auto;
 }
 
 .markdown code {
   font-family: 'Menlo', monospace;
-  font-size: 90%;
-  padding-top: 0.1em;
-  padding-bottom: 0.1em;
+  font-size: 85%;
+  border-radius: 0.25em;
+  padding: 0.1em 0.25em;
 }
 
 .markdown pre code {
@@ -49,7 +53,7 @@
 }
 
 .markdown blockquote {
-  border-left: 1em solid #dddddd;
+  border-left: 1em solid #eeeeee;
   padding-left: 1em;
 }
 
