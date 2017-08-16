@@ -1,6 +1,6 @@
 title: Nikita Kouevda
 email: nkouevda@gmail.com
-permalink: pretty
+permalink: /blog/:year/:month/:day/:title/
 exclude: [README.md]
 defaults:
   - scope:
