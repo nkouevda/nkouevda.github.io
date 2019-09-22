@@ -1,3 +1,3 @@
-# [nkouevda.github.io](https://nkouevda.github.io/)
+# [nkouevda.com](https://nkouevda.com/)
 
 My personal website.
