@@ -4,16 +4,14 @@ html {
 
 body {
   font-family: 'Georgia', serif;
-  color: #333333;
 }
 
-a {
-  color: #bb3300;
-  text-decoration: none;
+body, a {
+  color: #222222;
 }
 
 a:hover {
-  text-decoration: underline;
+  color: rgba(34, 34, 34, 0.5);
 }
 
 #container {
